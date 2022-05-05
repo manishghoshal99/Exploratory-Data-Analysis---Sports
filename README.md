@@ -16,7 +16,7 @@
 <a href="https://github.com/manishghoshal99/Exploratory-Data-Analysis---Sports/blob/main/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 > Demo:
-<a href="Adding soon">Exploratory Data Analysis-Retail - To Be Added</a>
+<a href="Adding soon">Exploratory Data Analysis-Sports - To Be Added</a>
 
 <br><br>
 <p align="center">
