@@ -3,6 +3,7 @@
 <br>
 
 > Problem Statement:
+
 ⦿ Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’<br>
 ⦿ As a sports analysts, find out the most successful teams, players and factors<br>
   contributing win or loss of a team.<br>
@@ -15,6 +16,7 @@
 <a href="https://github.com/manishghoshal99/Exploratory-Data-Analysis---Sports/blob/main/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 > Demo:
+
 <a href="Adding soon">Exploratory Data Analysis-Retail - To Be Added</a>
 <br><br>
 <p align="center">
